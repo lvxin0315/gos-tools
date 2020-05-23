@@ -33,6 +33,6 @@ func (callback *DingDingListenerCallback) Call(ist *informationSchemaTable, tld 
 		ist.TableName,
 		strings.Join(tld.Events, ","),
 		ist.AutoIncrement)
-	push.SendDingDingMessage(msg)
+	err = push.SendDingDingMessage(msg)
 	return
 }

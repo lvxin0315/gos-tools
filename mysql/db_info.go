@@ -54,7 +54,7 @@ func initTable(db *gorm.DB) {
 				err = tl.Update(db)
 				if err != nil {
 					logrus.Error("tableListener update error: ", err)
-					panic(err)
+					continue
 				}
 			}
 		}(t)
