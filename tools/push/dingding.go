@@ -1,8 +1,8 @@
 package push
 
 import (
-	"github.com/CatchZeng/dingtalk/client"
-	dingMessage "github.com/CatchZeng/dingtalk/message"
+	"github.com/lvxin0315/gos-tools/dingtalk/client"
+	dingMessage "github.com/lvxin0315/gos-tools/dingtalk/message"
 	"github.com/lvxin0315/gos-tools/etc"
 )
 
