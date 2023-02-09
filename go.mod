@@ -8,7 +8,7 @@ require (
 	github.com/fatedier/frp v0.33.0
 	github.com/fatedier/golib v0.2.0
 	github.com/gin-contrib/gzip v0.0.1
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.4.0 // indirect
 	github.com/hpcloud/tail v1.0.0
@@ -17,7 +17,6 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v0.0.5
-	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59 // indirect
 	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0 // indirect
 	golang.org/x/sys v0.0.0-20200428200454-593003d681fa // indirect
 	gopkg.in/fsnotify.v1 v1.0.0-00010101000000-000000000000 // indirect
