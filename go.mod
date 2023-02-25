@@ -19,7 +19,7 @@ require (
 	github.com/spf13/cobra v0.0.5
 	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59 // indirect
 	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0 // indirect
-	golang.org/x/sys v0.0.0-20200428200454-593003d681fa // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/fsnotify.v1 v1.0.0-00010101000000-000000000000 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 )
